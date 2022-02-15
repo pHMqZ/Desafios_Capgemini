@@ -31,5 +31,5 @@
     <li>Caso a senha não atenda os parametros, aparecera um inteiro com o valor de caracteres necessarios para a senha ser aceita:</li>
     <img aling="center" src="assets/resposta_SenhaErro.JPG">
     <li>Caso a senha seja aceita, o console retornará zero:</li>
-    <img align="center" src="assets/resposta_SenhaOK">
+    <img align="center" src="assets/resposta_SenhaOK.JPG">
 </ol>
