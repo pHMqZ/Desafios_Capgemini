@@ -1,6 +1,6 @@
 <h1> Academia Capgemini 2022</h1>
 
-<h2>Desafios de programação</h2>
+<h2>Desafios de programação - Phillip Marques Silva</h2>
 <p>Desafios para testar os conhecimentos em lógica de programação, contento 3 questões com diferentes níveis de dificuldade.</p>
 
 <ol> <h3>Pré-requisitos:</h3>
