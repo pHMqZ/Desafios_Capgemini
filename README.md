@@ -16,8 +16,9 @@
     <img align="center" src="/assets/classe_Escada.JPG">
     <li>Na classe, clicar com o botão direito e ir ate a opção "Run As"e selecionar a opção "Java Application":</li>
     <img aling="center" src="assets/run_as.JPG">
-    <li>No console, irá aparecer o texto "Qual o tamanho da escada?", abaixo do texto colocar qualquer valor inteiro de sua escolha e apertar "Enter" e aguardar a resposta:</li>
+    <li>No console, irá aparecer o texto "Qual o tamanho da escada?", abaixo do texto colocar qualquer valor inteiro de sua escolha e apertar "Enter":</li>
     <img aling="center" src="assets/exemplo_escada.JPG">
+    <li>Aguardar a resposta:</li>
     <img aling="center" src="assets/resposta_escada.JPG">
 </ol>
 
@@ -32,4 +33,17 @@
     <img aling="center" src="assets/resposta_SenhaErro.JPG">
     <li>Caso a senha seja aceita, o console retornará zero:</li>
     <img align="center" src="assets/resposta_SenhaOK.JPG">
+</ol>
+
+<ol> <h3>Questão 3:</h3>
+    <li>Abrir a classe Desafio3_Anagramas:</li>
+    <img align="center" src="/assets/classe_Anagrama.JPG">
+    <li>Na classe, clicar com o botão direito e ir ate a opção "Run As"e selecionar a opção "Java Application":</li>
+    <img aling="center" src="assets/run_as.JPG">
+    <li>No console, irá aparecer o texto "Digite a palavra a ser analisada:", abaixo do texto colocar a palavra para análise e apertar "Enter":</li>
+    <img aling="center" src="assets/exemplo_Senha.JPG">
+    <li>Caso a palavra possua anagramas, o console irá retorna a quantidade de anagramas presentes:</li>
+    <img aling="center" src="assets/resposta_ComAnagrama.JPG">
+    <li>Caso a palavra não tenha anagramas, o console retornará zero:</li>
+    <img align="center" src="assets/resposta_SemAnagrama.JPG">
 </ol>
