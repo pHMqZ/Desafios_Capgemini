@@ -43,7 +43,7 @@
     <li>No console, irá aparecer o texto "Digite a palavra a ser analisada:", abaixo do texto colocar a palavra para análise e apertar "Enter":</li>
     <img aling="center" src="assets/exemplo_Anagrama.JPG">
     <li>Caso a palavra possua anagramas, o console irá retorna a quantidade de anagramas presentes:</li>
-    <img aling="center" src="assets/resposta_ComAnagrama.JPG">
+    <img aling="center" src="assets/resposta_AnagramaSim.JPG">
     <li>Caso a palavra não tenha anagramas, o console retornará zero:</li>
     <img align="center" src="assets/resposta_SemAnagrama.JPG">
 </ol>
